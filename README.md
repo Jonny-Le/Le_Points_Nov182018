@@ -1,9 +1,9 @@
 # Le_Points_Nov182018  
-Language: C  
-Kernel: Linux raspberrypi 4.9.59-v7+  
-Complier: GNU Compiler Collection  
+##Language: C  
+##Kernel: Linux raspberrypi 4.9.59-v7+  
+##Complier: GNU Compiler Collection (Raspbian 6.3.0) 
 
-***Version 1.0***  
+##***Version 1.0***  
 Last date modified: 11/18/2018  
 
 Description:  
